@@ -9,6 +9,7 @@
   "author": "Steve and Jessica",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "fs": "0.0.1-security"
   }
 }
